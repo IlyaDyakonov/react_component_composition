@@ -1,0 +1,29 @@
+.news-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+
+    margin-left: 150px;
+}
+
+.news-section {
+    margin-top: 10px;
+    padding-left: 30px;
+}
+
+.news-block {
+    gap: 15px;
+    font-size: 15px;
+    color: #6fa3dd;
+    font-weight: 500;
+}
+
+.news-body {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left: -30px;
+
+    gap: 5px;
+}
